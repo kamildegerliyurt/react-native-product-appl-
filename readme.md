@@ -1,1 +1,5 @@
-npm install @reduxjs/toolkit react-redux @react-navigation/native @react-navigation/native-stack react-native-screens react-native-safe-area-context axios expo-location @react-navigation/bottom-tabs @react-native-async-storage/async-storage firebase @expo/vector-icons react-native-maps
+
+<img align="left" alt="Coding" width="200" src="https://github.com/user-attachments/assets/90f07630-8424-4292-a77a-5462d44a5e33">
+
+
+
